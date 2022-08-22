@@ -1,0 +1,48 @@
+body {
+    background-image: url(/img/foto.png);
+    background-size: cover;
+}
+
+.negrilla {
+    background-color: darksalmon;
+    color: indianred;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+}
+.perfil {
+    background-image: url(../img/foto\ perfil.jpg);
+    background-position: center;
+    height: 250px;
+   background-repeat: no-repeat;
+    background-size: 250px;
+    
+}
+.sobremi {
+    color:white;
+    font-style: 32px;
+    background-color:#fe948ccf;
+    border-radius: 20px;
+    padding: 4px;
+    text-decoration: none;
+}
+.margen {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.ennegro {
+    font-style: italic;
+    font-family: sans-serif;
+    
+}
+.sineditar {
+    font-style: normal;
+    font-family: sans-serif;
+
+}
+
+.stitch {
+    display: block;
+    margin: auto;
+    height: 180px;
+}
